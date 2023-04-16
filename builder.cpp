@@ -4,10 +4,10 @@
 *   www.algorytm.org                    *
 *   Opracowal Dworak Kamil              *
 *****************************************/
-
-#include "stdafx.h" 
+ 
 #include <iostream>
 #include <string>
+#include "stdafx.h
 using namespace std;
  
  
