@@ -1,2 +1,4 @@
 # TestRepo
-Test
+Sebastian Jędrzejczak
+Mateusz Nowocin
+Piotr Zaklika
